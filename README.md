@@ -1,7 +1,7 @@
-<!--
-**ameliacitradewi/ameliacitradewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Welcome to My Awesome GitHub Profile! 😎
+
+![Banner Image](https://github.com/ameliacitradewi/ameliacitradewi/blob/main/Purple%20Minimalist%20Develop%20Your%20Mobile%20App%20With%20Us%20Medium%20Banner.jpg)
+
 ## About Me 🤓
 
 Hey there, I'm [Amelia Citra](https://github.com/ameliacitradewi), but you can call me the *Code Magician*! 🎩✨ I'm a passionate developer who loves to blend humor into my code like sprinkles on a donut! 🍩 I believe laughter is the best debugging tool, and my mission is to spread joy through my repositories.
