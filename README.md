@@ -1,7 +1,7 @@
-### Welcome to My Awesome GitHub Profile! 😎
-
 <!--
 **ameliacitradewi/ameliacitradewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Welcome to My Awesome GitHub Profile! 😎
 ![Banner Image](https://github.com/ameliacitradewi/ameliacitradewi/blob/main/Purple%20Minimalist%20Develop%20Your%20Mobile%20App%20With%20Us%20Medium%20Banner.jpg)
 
 ## About Me 🤓
