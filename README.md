@@ -33,6 +33,6 @@ If you're into code and laughter as much as I am, let's be friends! Feel free to
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliacitradewi&layout=compact&theme=dark&hide_border=true)
 
-![Amelia's github stats](https://github-readme-stats.vercel.app/api?username=ameliacitradewi&show_icons=true&hide_border=true&theme=dark)
+//![Amelia's github stats](https://github-readme-stats.vercel.app/api?username=ameliacitradewi&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ameliacitradewi)](https://github.com/ameliacitradewi/github-profile-trophy)
+//[![trophy](https://github-profile-trophy.vercel.app/?username=ameliacitradewi)](https://github.com/ameliacitradewi/github-profile-trophy)
