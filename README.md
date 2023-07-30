@@ -30,3 +30,9 @@ Did you know that I once accidentally made my computer laugh? I left an infinite
 If you're into code and laughter as much as I am, let's be friends! Feel free to reach out on [LinkedIn](https://linkedin.com/in/ameliacitradewi) or [Instagram](https://instagram.com/codeinpajamas). Don't forget to check out my repositories below and hit that ⭐️ button on the ones that tickle your funny bone!
 
 **Stay curious, keep smiling, and happy coding!** 😄👨‍💻
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliacitradewi&layout=compact&theme=dark&hide_border=true)
+
+![Amelia's github stats](https://github-readme-stats.vercel.app/api?username=ameliacitradewi&show_icons=true&hide_border=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ameliacitradewi)](https://github.com/ameliacitradewi/github-profile-trophy)
