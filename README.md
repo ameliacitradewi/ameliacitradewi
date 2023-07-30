@@ -8,7 +8,7 @@ Hey there, I'm [Amelia Citra](https://github.com/ameliacitradewi), but you can c
 
 ## Interests 🌟
 
-- **Coding Wonders**: I'm trying with-my-maximum-effort with writing clean, efficient, and mind-boggling code. It's like solving puzzles, but way more fun! 🔍💡
+- **Coding Wonders**: I'm trying with maximum effort to write clean, efficient, and mind-boggling code. It's like solving puzzles, but way more fun! 🔍💡
 - **Meme Engineering**: Transforming memes into working code is my guilty pleasure! 😂 I mean, why not merge humor and technology?
 - **Tech Gadgets**: I'm a sucker for the latest gadgets. My desk looks like it's straight out of a sci-fi movie! 🛸📱
 
