@@ -1,6 +1,6 @@
 ### Welcome to My Awesome GitHub Profile! 😎
 
-![Banner Image](https://github.com/ameliacitradewi/ameliacitradewi/blob/main/2.jpg)
+![Banner Image](https://github.com/ameliacitradewi/ameliacitradewi/blob/main/Banner.jpg)
 
 ## About Me 🤓
 
