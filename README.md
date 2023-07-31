@@ -4,7 +4,7 @@
 
 ## About Me 🤓
 
-Hey there, I'm [Amelia Citra](https://github.com/ameliacitradewi), but you can call me the *Code Wizard*! 🧝‍♀✨ I'm a passionate developer who loves to blend humor into my code like sprinkles on a donut! 🍩 I believe laughter is the best debugging tool, and my mission is to spread joy through my repositories.
+Hey there, I'm [Amelia Citra](https://github.com/ameliacitradewi), but you can call me the *Swift Wizard*! 🧝‍♀✨ I'm a passionate developer who loves to blend humor into my code like sprinkles on a donut! 🍩 I believe laughter is the best debugging tool, and my mission is to spread joy through my repositories.
 
 ## Interests 🌟
 
