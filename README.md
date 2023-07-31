@@ -1,6 +1,6 @@
 ### Welcome to My Awesome GitHub Profile! 😎
 
-![Banner Image](https://github.com/ameliacitradewi/ameliacitradewi/blob/main/Purple%20Minimalist%20Develop%20Your%20Mobile%20App%20With%20Us%20Medium%20Banner.jpg)
+![Banner Image](https://github.com/ameliacitradewi/ameliacitradewi/blob/main/2.jpg))
 
 ## About Me 🤓
 
