@@ -1,4 +1,4 @@
-### Welcome to My Awesome GitHub Profile! 😎
+### Welcome to My GitHub Profile! 😎
 
 ![Banner Image](https://github.com/ameliacitradewi/ameliacitradewi/blob/main/Banner.jpg)
 
